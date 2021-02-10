@@ -57,6 +57,7 @@ namespace LambdaLinq
             buscador.BuscaLambdaLst("Po").ForEach(x => Console.WriteLine(x)); 
             Console.ReadKey();
 
+
         }
         
     }
